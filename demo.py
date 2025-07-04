@@ -1,8 +1,9 @@
 
 
 
-def sum(a, b):
+def sum(a: int, b: int):
     """Returns the sum of two numbers."""
+    """ Another comment"""
     return a + b
 
 
