@@ -1,7 +1,7 @@
 
 
 
-def sum(a: int, b: int):
+def sum(a: int, b: int) -> int:
     """Returns the sum of two numbers."""
     return a + b
 
